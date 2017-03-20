@@ -29,7 +29,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     TilePane tilePane;   
     
-    Point point = new Point(0, 0);
+    Point point = new Point(0, 1);
     
     Random random = new Random();
     
